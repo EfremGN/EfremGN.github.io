@@ -1,8 +1,8 @@
 # Versiones de Rocky IV
-[Versión 0, HTML corregido](https://efremgn.github.io/v0)
-[Versión 1, HTML y CSS](https://efremgn.github.io/v1)
-[Versión 2.1, plantilla responsive usada](https://efremgn.github.io/v2.1)
-[Versión 2.2, página creada con la plantilla responsive](https://efremgn.github.io/v2.2)
+[Versión 0, HTML corregido](https://efremgn.github.io/v0)  
+[Versión 1, HTML y CSS](https://efremgn.github.io/v1)  
+[Versión 2.1, plantilla responsive usada](https://efremgn.github.io/v2.1)  
+[Versión 2.2, página creada con la plantilla responsive]  (https://efremgn.github.io/v2.2)
 ### Lista con elementos css usados
 1. font-family
 2. src
